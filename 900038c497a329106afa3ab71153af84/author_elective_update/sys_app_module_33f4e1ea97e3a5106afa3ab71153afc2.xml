@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Legal Service Suite (LSS)">35d2e96a97e3a5106afa3ab71153afb2</application>
+        <assessment/>
+        <device_type/>
+        <filter table="sp_portal">sys_nameSTARTSWITHLegal Service Suite^EQ<item endquery="false" field="sys_name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="Legal Service Suite"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DETAIL</link_type>
+        <map_page/>
+        <mobile_title>Configure LSS Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sp_portal</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>Sascha.Wawerzinek@isd.de</sys_created_by>
+        <sys_created_on>2023-06-23 13:32:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>33f4e1ea97e3a5106afa3ab71153afc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configure LSS Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_app_module_33f4e1ea97e3a5106afa3ab71153afc2</sys_update_name>
+        <sys_updated_by>Sascha.Wawerzinek@isd.de</sys_updated_by>
+        <sys_updated_on>2023-06-23 13:32:35</sys_updated_on>
+        <timeline_page/>
+        <title>Configure LSS Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LSS Core">900038c497a329106afa3ab71153af84</application>
+        <file_path/>
+        <instance_id>d39ec02fdbbde9980b9d21c40596192f</instance_id>
+        <instance_name>dev169623</instance_name>
+        <name>sys_app_module_33f4e1ea97e3a5106afa3ab71153afc2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Legal Service Suite (LSS)">35d2e96a97e3a5106afa3ab71153afb2</application><assessment/><device_type/><filter table="sp_portal">sys_nameSTARTSWITHLegal Service Suite^EQ<item endquery="false" field="sys_name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="Legal Service Suite"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>DETAIL</link_type><map_page/><mobile_title>Configure LSS Portal</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sp_portal</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>Sascha.Wawerzinek@isd.de</sys_created_by><sys_created_on>2023-06-23 13:32:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>33f4e1ea97e3a5106afa3ab71153afc2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Configure LSS Portal</sys_name><sys_overrides/><sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package><sys_policy/><sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope><sys_update_name>sys_app_module_33f4e1ea97e3a5106afa3ab71153afc2</sys_update_name><sys_updated_by>Sascha.Wawerzinek@isd.de</sys_updated_by><sys_updated_on>2023-06-23 13:32:35</sys_updated_on><timeline_page/><title>Configure LSS Portal</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>63629424</payload_hash>
+        <record_name>Configure LSS Portal</record_name>
+        <reverted_from/>
+        <source>01fb2684473321104345cecbd36d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:32:17</sys_created_on>
+        <sys_id>2bfbe684473321104345cecbd36d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189018fa10b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:32:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e7fbe684223321100fa344a8f11eef91</update_guid>
+        <update_guid_history>e7fbe684223321100fa344a8f11eef91:63629424</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Configure LSS Portal">006d6608473321104345cecbd36d4384</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:38:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1247284b7ed143ed94c9b619f7858139</sys_id>
+        <sys_metadata>33f4e1ea97e3a5106afa3ab71153afc2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Configure LSS Portal</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_scope_delete display_value="">15093596030e4fc0a96c815be24d9000</sys_scope_delete>
+        <sys_update_name>sys_app_module_33f4e1ea97e3a5106afa3ab71153afc2</sys_update_name>
+        <sys_update_version display_value="sys_app_module_33f4e1ea97e3a5106afa3ab71153afc2">2bfbe684473321104345cecbd36d4391</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:38:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

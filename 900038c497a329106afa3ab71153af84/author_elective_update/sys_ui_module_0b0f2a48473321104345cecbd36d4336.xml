@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Legal Service Suite (LSS)">213e6248473321104345cecbd36d43a1</application>
+        <filter/>
+        <name>Entities</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_isdfe_lss_core.entity_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:47:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b0f2a48473321104345cecbd36d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entities</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_ui_module_0b0f2a48473321104345cecbd36d4336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:47:18</sys_updated_on>
+        <table>x_isdfe_lss_core_entity</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LSS Core">900038c497a329106afa3ab71153af84</application>
+        <file_path/>
+        <instance_id>d39ec02fdbbde9980b9d21c40596192f</instance_id>
+        <instance_name>dev169623</instance_name>
+        <name>sys_ui_module_0b0f2a48473321104345cecbd36d4336</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Legal Service Suite (LSS)">213e6248473321104345cecbd36d43a1</application><filter/><name>Entities</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_isdfe_lss_core.entity_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-28 10:47:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0b0f2a48473321104345cecbd36d4336</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Entities</sys_name><sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package><sys_policy/><sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope><sys_update_name>sys_ui_module_0b0f2a48473321104345cecbd36d4336</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-28 10:47:18</sys_updated_on><table>x_isdfe_lss_core_entity</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>2069965722</payload_hash>
+        <record_name>Entities</record_name>
+        <reverted_from/>
+        <source>388c22c4473321104345cecbd36d4324</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:47:18</sys_created_on>
+        <sys_id>2f6fa688473321104345cecbd36d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189019d623a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:47:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>636fa688483321104e4f49dc5109ee1e</update_guid>
+        <update_guid_history>636fa688483321104e4f49dc5109ee1e:2069965722</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:48:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>22a789f9aeba409094ec0fe612069240</sys_id>
+        <sys_metadata>0b0f2a48473321104345cecbd36d4336</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entities</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_scope_delete display_value="">15093596030e4fc0a96c815be24d9000</sys_scope_delete>
+        <sys_update_name>sys_ui_module_0b0f2a48473321104345cecbd36d4336</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_0b0f2a48473321104345cecbd36d4336">2f6fa688473321104345cecbd36d431e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:48:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

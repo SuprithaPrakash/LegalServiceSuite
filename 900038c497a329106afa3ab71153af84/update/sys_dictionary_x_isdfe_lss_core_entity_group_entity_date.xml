@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
         <sys_created_on>2023-06-22 11:11:45</sys_created_on>
-        <sys_id>365b3b8697a365106afa3ab71153afe8</sys_id>
         <sys_name>Group Entity Date</sys_name>
         <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
         <sys_policy/>

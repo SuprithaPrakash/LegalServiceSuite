@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Entity</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Entity</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">950b0b7de821211076da10591ad287fd</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:32:14</sys_created_on>
+        <sys_id>32fba684473321104345cecbd36d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entity</sys_name>
+        <sys_package display_value="LSS_PDI_2023" source="x_867381_lss_pdi_2">0a81606f472321104345cecbd36d4340</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_wizard_answer_32fba684473321104345cecbd36d436c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:32:14</sys_updated_on>
+        <table/>
+        <target_url>x_isdfe_lss_core_entity.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

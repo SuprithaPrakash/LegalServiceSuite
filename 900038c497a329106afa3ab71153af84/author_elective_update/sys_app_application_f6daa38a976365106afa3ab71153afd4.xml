@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Entity</name>
+        <order>100</order>
+        <roles>x_isdfe_lss_core.entity_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+        <sys_created_on>2023-06-22 09:59:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f6daa38a976365106afa3ab71153afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entity</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_app_application_f6daa38a976365106afa3ab71153afd4</sys_update_name>
+        <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+        <sys_updated_on>2023-06-22 09:59:06</sys_updated_on>
+        <title>Entity</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LSS Core">900038c497a329106afa3ab71153af84</application>
+        <file_path/>
+        <instance_id>d39ec02fdbbde9980b9d21c40596192f</instance_id>
+        <instance_name>dev169623</instance_name>
+        <name>sys_app_application_f6daa38a976365106afa3ab71153afd4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Entity</name><order>100</order><roles>x_isdfe_lss_core.entity_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by><sys_created_on>2023-06-22 09:59:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f6daa38a976365106afa3ab71153afd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Entity</sys_name><sys_overrides/><sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package><sys_policy/><sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope><sys_update_name>sys_app_application_f6daa38a976365106afa3ab71153afd4</sys_update_name><sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by><sys_updated_on>2023-06-22 09:59:06</sys_updated_on><title>Entity</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1409794978</payload_hash>
+        <record_name>Entity</record_name>
+        <reverted_from/>
+        <source>01fb2684473321104345cecbd36d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:32:17</sys_created_on>
+        <sys_id>27fbe684473321104345cecbd36d438e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189018fa0e50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:32:17</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>e3fbe684f43321100ab88c3d36fbde8e</update_guid>
+        <update_guid_history>e3fbe684f43321100ab88c3d36fbde8e:1409794978</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Entity">4c4de208473321104345cecbd36d4352</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:37:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>b34e297f53144b1484e3d07261d5f5e9</sys_id>
+        <sys_metadata>f6daa38a976365106afa3ab71153afd4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Entity</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_scope_delete display_value="">15093596030e4fc0a96c815be24d9000</sys_scope_delete>
+        <sys_update_name>sys_app_application_f6daa38a976365106afa3ab71153afd4</sys_update_name>
+        <sys_update_version display_value="sys_app_application_f6daa38a976365106afa3ab71153afd4">27fbe684473321104345cecbd36d438e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:37:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

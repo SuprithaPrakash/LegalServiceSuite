@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7a92be0c473321104345cecbd36d438a" label="Configuration" max_length="40" name="x_isdfe_lss_core_configuration" type="collection">
+        <element display="true" label="FS Reminder" max_length="40" name="fs_reminder" type="boolean"/>
+    </element>
+</database>

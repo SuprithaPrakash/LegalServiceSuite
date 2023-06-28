@@ -17,7 +17,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Configuration Item" name="cmdb_ci">539aefd9971321106afa3ab71153afb0</super_class>
+        <super_class display_value="Configuration Item" name="cmdb_ci">ad0b4b7de821211076da10591ad28749</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
         <sys_created_on>2023-06-22 09:59:06</sys_created_on>

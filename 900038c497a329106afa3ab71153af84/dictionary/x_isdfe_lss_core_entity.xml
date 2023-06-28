@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="873aa34a976365106afa3ab71153afdc" extends="cmdb_ci" label="Entity" max_length="40" name="x_isdfe_lss_core_entity" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Entity Type" mandatory="true" max_length="40" name="entity_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Main" sequence="100" value="01"/>
+                <element inactive_on_update="false" label="Branch" sequence="200" value="02"/>
+                <element inactive_on_update="false" label="Permanent Establishment" sequence="300" value="03"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,pdf_cell_type=image" label="Logo" max_length="40" name="logo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Balance Sheet Total" max_length="40" name="balance_sheet_total" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Revenue" max_length="40" name="revenue" type="integer"/>
+        <element label="Group Entity Date" mandatory="true" max_length="40" name="group_entity_date" type="glide_date"/>
+        <element label="Termination Date" max_length="40" name="termination_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Entity Size" mandatory="true" max_length="40" name="entity_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="100" value="small"/>
+                <element inactive_on_update="false" label="Medium" sequence="200" value="medium"/>
+                <element inactive_on_update="false" label="Large" sequence="300" value="large"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Employee Head Count" max_length="40" name="employee_head_count" type="integer"/>
+    </element>
+</database>

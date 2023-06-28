@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="DELETE">
+        <active>true</active>
+        <map display_value="u_imp_saml_user_05o6wwiogg">3f60195d97e7a1106afa3ab71153af61</map>
+        <order>100</order>
+        <script><![CDATA[// create first name if neccessary
+if (source.first_name.nil())
+    target.first_name = source.user_name;
+]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>sascha.wawerzinek@isdfeniqs.com</sys_created_by>
+        <sys_created_on>2023-06-19 14:48:58</sys_created_on>
+        <sys_id>b360195d97e7a1106afa3ab71153af77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_transform_script_b360195d97e7a1106afa3ab71153af77</sys_update_name>
+        <sys_updated_by>sascha.wawerzinek@isdfeniqs.com</sys_updated_by>
+        <sys_updated_on>2023-06-19 14:48:58</sys_updated_on>
+        <when>onBefore</when>
+    </sys_transform_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LSS Core">900038c497a329106afa3ab71153af84</application>
+        <file_path/>
+        <instance_id>d39ec02fdbbde9980b9d21c40596192f</instance_id>
+        <instance_name>dev169623</instance_name>
+        <name>sys_transform_script_b360195d97e7a1106afa3ab71153af77</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_script"&gt;&lt;sys_transform_script action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;map display_value="u_imp_saml_user_05o6wwiogg"&gt;3f60195d97e7a1106afa3ab71153af61&lt;/map&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[// create first name if neccessary
+if (source.first_name.nil())
+    target.first_name = source.user_name;
+]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_transform_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sascha.wawerzinek@isdfeniqs.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-06-19 14:48:58&lt;/sys_created_on&gt;&lt;sys_id&gt;b360195d97e7a1106afa3ab71153af77&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;onBefore&lt;/sys_name&gt;&lt;sys_package display_value="LSS Core" source="x_isdfe_lss_core"&gt;900038c497a329106afa3ab71153af84&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="LSS Core"&gt;900038c497a329106afa3ab71153af84&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_script_b360195d97e7a1106afa3ab71153af77&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sascha.wawerzinek@isdfeniqs.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-06-19 14:48:58&lt;/sys_updated_on&gt;&lt;when&gt;onBefore&lt;/when&gt;&lt;/sys_transform_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1398623031</payload_hash>
+        <record_name>onBefore</record_name>
+        <reverted_from/>
+        <source>01fb2684473321104345cecbd36d4390</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:32:18</sys_created_on>
+        <sys_id>b3fb2a84473321104345cecbd36d4314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189018fa5c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:32:18</sys_updated_on>
+        <type>Transform Script</type>
+        <update_guid>73fb2a84443321100e4a6695cb1cf314</update_guid>
+        <update_guid_history>73fb2a84443321100e4a6695cb1cf314:1398623031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 10:49:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_script">sys_transform_script</sys_db_object>
+        <sys_id>0948c29f87d24b78890aed33bcec0d84</sys_id>
+        <sys_metadata>b360195d97e7a1106afa3ab71153af77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>onBefore</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_scope_delete display_value="">15093596030e4fc0a96c815be24d9000</sys_scope_delete>
+        <sys_update_name>sys_transform_script_b360195d97e7a1106afa3ab71153af77</sys_update_name>
+        <sys_update_version display_value="sys_transform_script_b360195d97e7a1106afa3ab71153af77">b3fb2a84473321104345cecbd36d4314</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 10:49:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

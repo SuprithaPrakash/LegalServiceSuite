@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="5deaa38a976365106afa3ab71153af2b" sys_domain="global" table="x_isdfe_lss_core_entity" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>3af8042a97af65106afa3ab71153af8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>1</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>bef8042a97af65106afa3ab71153af8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>32f8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>3</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>b2f8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fault_count</element>
+            <position>4</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>36f8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_date</element>
+            <position>5</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>b6f8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <position>6</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>3af8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>baf8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entity_type</element>
+            <position>8</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>3ef8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entity_size</element>
+            <position>9</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>bef8042a97af65106afa3ab71153af8b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>group_entity_date</element>
+            <position>10</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>32f8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>termination_date</element>
+            <position>11</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>b2f8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>logo</element>
+            <position>12</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>36f8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>employee_head_count</element>
+            <position>13</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>b6f8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>revenue</element>
+            <position>14</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>3af8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>balance_sheet_total</element>
+            <position>15</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>baf8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>16</position>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-23 06:49:11</sys_created_on>
+            <sys_id>3ef8042a97af65106afa3ab71153af8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_isdfe_lss_core_entity" sys_domain="global" view="Default view">5deaa38a976365106afa3ab71153af2b</sys_ui_section>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-23 06:49:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>true</header>
+            <name>x_isdfe_lss_core_entity</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sri.agirichetty@isdfeniqs.com</sys_created_by>
+            <sys_created_on>2023-06-22 09:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5deaa38a976365106afa3ab71153af2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_isdfe_lss_core_entity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+            <sys_update_name>sys_ui_section_5deaa38a976365106afa3ab71153af2b</sys_update_name>
+            <sys_updated_by>sri.agirichetty@isdfeniqs.com</sys_updated_by>
+            <sys_updated_on>2023-06-22 09:59:16</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

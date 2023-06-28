@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="index">46cc384147532100ba13a5554ee49009</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>Sascha.Wawerzinek@isd.de</sys_created_by>
+        <sys_created_on>2023-06-23 13:00:25</sys_created_on>
+        <sys_id>93cdd96697e3a5106afa3ab71153af90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Legal Service Suite</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sp_portal_93cdd96697e3a5106afa3ab71153af90</sys_update_name>
+        <sys_updated_by>Sascha.Wawerzinek@isd.de</sys_updated_by>
+        <sys_updated_on>2023-06-23 13:00:25</sys_updated_on>
+        <theme/>
+        <title>Legal Service Suite</title>
+        <ts_index_group/>
+        <url_suffix>lss</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=93cdd96697e3a5106afa3ab71153af90"/>
+</record_update>

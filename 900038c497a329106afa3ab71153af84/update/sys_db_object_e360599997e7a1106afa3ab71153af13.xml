@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Imp Saml User 05o6wwiogg</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_saml_user_05o6wwiogg</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">6bb963d1971321106afa3ab71153af28</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>sascha.wawerzinek@isdfeniqs.com</sys_created_by>
+        <sys_created_on>2023-06-19 14:48:57</sys_created_on>
+        <sys_id>e360599997e7a1106afa3ab71153af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Saml User 05o6wwiogg</sys_name>
+        <sys_package display_value="LSS Core" source="x_isdfe_lss_core">900038c497a329106afa3ab71153af84</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LSS Core">900038c497a329106afa3ab71153af84</sys_scope>
+        <sys_update_name>sys_db_object_e360599997e7a1106afa3ab71153af13</sys_update_name>
+        <sys_updated_by>sascha.wawerzinek@isdfeniqs.com</sys_updated_by>
+        <sys_updated_on>2023-06-19 14:48:57</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
